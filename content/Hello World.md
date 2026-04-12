@@ -44,6 +44,4 @@ That's the policy gradient theorem. If you know, you know.
 
 ---
 
-Thanks for stopping by. More posts coming soon.
-
-Thanks for stopping by.More posts coming soon.
+Thanks for stopping by. More posts coming soon.If you're curious about any of these topics, feel free to explore the tags or reach out.
